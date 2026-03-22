@@ -1,3 +1,5 @@
+import zorixLogo from "@/assets/zorix-logo.png";
+
 const links = [
   { label: "Home", href: "#home" },
   { label: "Services", href: "#services" },
